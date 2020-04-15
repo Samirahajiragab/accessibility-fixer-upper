@@ -84,7 +84,7 @@ td {
   color: #fff;
 }
 
-.nav :focus {
+nav:focus {
   outline: 3px solid #000;
 }
 
