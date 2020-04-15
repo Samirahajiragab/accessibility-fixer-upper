@@ -12,7 +12,7 @@ html {
 
 a {
   color: #568c36;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
@@ -33,7 +33,7 @@ a:hover {
 
 .nav a {
   color: #fff;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .nav a:hover {
@@ -91,7 +91,7 @@ td {
 @media only screen and (min-width: 35em) {
 
   .about-content {
-    bottom: 0;
+    bottom:0px;
     position: absolute;
     width: 100%;
 
