@@ -12,7 +12,7 @@ html {
 
 a {
   color: #568c36;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -33,7 +33,7 @@ a:hover {
 
 .nav a {
   color: #fff;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .nav a:hover {
